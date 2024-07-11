@@ -1,0 +1,44 @@
+{
+  "runs": [
+    {
+      "id": 1,
+      "title": "Morning Run",
+      "startedOn": "2024-06-01T06:00:00.000000",
+      "completedOn": "2024-06-01T06:30:00.000000",
+      "miles": 3,
+      "location": "INDOOR"
+    },
+    {
+      "id": 2,
+      "title": "Evening Run",
+      "startedOn": "2024-06-02T07:00:00.000000",
+      "completedOn": "2024-06-02T08:00:00.000000",
+      "miles": 6,
+      "location": "OUTDOOR"
+    },
+    {
+      "id": 3,
+      "title": "Noon Run",
+      "startedOn": "2024-06-03T01:10:00.000000",
+      "completedOn": "2024-06-03T01:50:00.000000",
+      "miles": 4,
+      "location": "INDOOR"
+    },
+    {
+      "id": 4,
+      "title": "Running on street",
+      "startedOn": "2024-06-04T09:20:00.000000",
+      "completedOn": "2024-06-04T09:40:00.000000",
+      "miles": 1,
+      "location": "OUTDOOR"
+    },
+    {
+      "id": 5,
+      "title": "Marathon on Sunday",
+      "startedOn": "2024-06-05T10:00:00.000000",
+      "completedOn": "2024-06-05T12:15:00.000000",
+      "miles": 12,
+      "location": "OUTDOOR"
+    }
+  ]
+}

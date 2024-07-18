@@ -23,3 +23,4 @@ Here is the link: [YouTube - FreeCodeCamp](https://www.youtube.com/watch?v=31KTd
 - H2 in-memory Database
 - Maven (Build tool)
 - JSON placeholder (external API)
+- IntelliJ IDEA (Community Edition)
